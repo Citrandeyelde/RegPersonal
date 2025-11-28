@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegPersonal</string>
+    <string-array name="srtDistritos">
+        <item>El Agustino</item>
+        <item>Barranco</item>
+        <item>Callao</item>
+        <item>Miraflores</item>
+    </string-array>
+</resources>
